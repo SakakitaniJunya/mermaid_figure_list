@@ -1,6 +1,57 @@
 # エンジニアキャリア
 
 ```mermaid
+mindmap
+  root((エンジニアキャリア))
+    A(エンジニア)
+      B(スペシャリスト)
+        B1(フロントエンドエンジニア)
+          B1a(HTML/CSS)
+          B1b(JavaScript)
+            B1b1(ES6)
+            B1b2(TypeScript)
+          B1c(フレームワーク)
+            B1c1(React.js)
+            B1c2(Vue.js)
+            B1c3(Angular.js)
+            B1c4(Svelte)
+        B2(バックエンドエンジニア)
+          B2a(Python)
+            B2a1(Django)
+            B2a2(Flask)
+          B2b(Java)
+            B2b1(Spring)
+          B2c(Node.js)
+          B2d(Go)
+        B3(フルスタックエンジニア)
+      B4(データサイエンティスト)
+        B4a(Python)
+          B4a1(Pandas)
+          B4a2(NumPy)
+          B4a3(Scikit-learn)
+        B4b(R)
+        B4c(SQL)
+      B5(ネットワークエンジニア)
+      B6(セキュリティエンジニア)
+      B7(データベースエンジニア)
+        B7a(SQL)
+        B7b(NoSQL)
+      B8(システムエンジニア)
+    C(マネジメント)
+      C1(プロジェクトマネージャー)
+      C2(プロダクトマネージャー)
+      C3(エンジニアリングマネージャー)
+      C4(CTO)
+    D(設計)
+      D1(システム設計)
+      D2(ソフトウェア設計)
+      D3(ネットワーク設計)
+      D4(データベース設計)
+
+
+```
+
+```mermaid
 graph TB
 A[エンジニア] --> B[スペシャリスト]
 B --> B1[フロントエンドエンジニア]
